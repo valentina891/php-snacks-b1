@@ -9,7 +9,6 @@ Se tutto è ok stampare “Accesso riuscito”, altrimenti “Accesso negato” 
 $nome = $_GET['name'];
 $mail = $_GET['mail'];
 $eta  = $_GET['age'];
-// var_dump($nome);
 // var_dump($mail);
 // var_dump($eta);
 
